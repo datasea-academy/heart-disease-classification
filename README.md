@@ -13,9 +13,9 @@
 
 | Nama Anggota | NIM | Username GitHub |
 | :--- | :--- | :--- |
-| **Rahma Aulia Azzahra Laeho** | 5251811012 | [@Day07ra]([https://github.com/Day07ra]) |
-| **Ikhwan Aji Darmawan** | 5251811003 | [@username](https://github.com/username) |
-| **Gracia Degdouva Imanuela** | 5251811009 | [@username](https://github.com/username) |
+| **Rahma Aulia Azzahra Laeho** | 5251811012 | [@Day07ra](https://github.com/Day07ra) |
+| **Ikhwan Aji Darmawan** | 5251811003 | [@ikhwandarmawan22-lang](https://github.com/ikhwandarmawan22-lang) |
+| **Gracia Degdouva Imanuela** | 5251811009 | [@Raci-009](https://github.com/Raci-009) |
 | **Roma Wijaya** | 5251811022 | [@username](https://github.com/username) |
 | **Katrin Hamka Amrullah** | 5251811025 | [@username](https://github.com/username) |
 | **Faa’iza Rahmadhani Khairunnisa** | 5251811010 | [@username](https://github.com/username) |
